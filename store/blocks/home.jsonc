@@ -6,7 +6,8 @@
       "info-card#button-left",
       "flex-layout.col",
       "flex-layout.row",
-      "shelf"
+      "shelf",
+      "slider-layout#home"
     ]
   },
   "rich-text": {
