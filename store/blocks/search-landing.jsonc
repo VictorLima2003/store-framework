@@ -1,11 +1,10 @@
 {
     "store.custom#landing": { 
       "blocks": [
-        "image#landingbanner", 
         "search-result-layout.customQuery"
       ]
     },
-
+//Declarra a imagem e ver oo que  erro esta dizendo
     "search-result-layout.customQuery": {
         "props": {
             "maxItemsPerPage":8,
