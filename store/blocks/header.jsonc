@@ -56,7 +56,7 @@
           "header-spacer",
           "minicart",
           "login",
-          "dra"
+          "drawer"
         ],
       
         "props": {
