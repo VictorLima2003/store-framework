@@ -28,12 +28,9 @@
         },    
     "header-row#notification": {
         "children": [
-          "header-spacer",
-          "rich-text#header",
-          "header-spacer",
-          "header-row#main",
-          "header-row#main-mobile",
-          "rich-text#header"
+            "header-spacer",
+            "rich-text#header",
+            "header-spacer"
         ]
       },
     
